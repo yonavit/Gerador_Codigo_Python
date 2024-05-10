@@ -1,5 +1,6 @@
-# Gerador_Codigo_Python
+## Fluxo Funcional
 
+```mermaid
 graph LR
 A[Início] --> B{Inserir documento}
 B --> |CPF (11 dígitos)| C[Validar CPF]
@@ -12,3 +13,4 @@ E --> Z[Fim]
 F --> Z
 G --> Z
 H --> Z
+```
